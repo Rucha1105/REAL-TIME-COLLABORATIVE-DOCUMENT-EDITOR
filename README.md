@@ -177,4 +177,8 @@ MENTOR: NEELA SANTHOSH KUMAR
 5. **Offline Support**:
  
    - Use **Service Workers** and **IndexedDB** to allow users to edit documents offline and sync changes when they reconnect.
+  
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/15debf13-bc76-4208-80e0-b38d4ea51c0b)
 
